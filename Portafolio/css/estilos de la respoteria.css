@@ -1,0 +1,62 @@
+body{
+     background-image: linear-gradient(#9a031e,#9a0526, #f25c54, #FF9090, #e38282);
+     height: 100%;
+     width: 100%;
+}
+
+p,li,label,tr,td{
+     color: whitesmoke;
+     font-family: 'Times New Roman', Times, serif;
+     font-size: 120%;
+}
+
+img{
+     border-radius: 50%;
+     height: 145px;
+     
+}
+
+.navbar {
+  margin-top: -120px;
+  margin-left: 700px;
+  align-items: center;
+  background-color:#690f24;
+  padding: 10px 20px;
+  width: 50%;
+   }
+
+   .navbar,h1,h3{
+     justify-self: center;
+     color: snow;
+     box-shadow: #690f24;
+   }
+
+   .we,.serve,.Contacto{
+     border-radius: 10px;
+     border: 3px solid   ghostwhite;
+     width: 30%;
+   }
+
+   .Contacto{
+     padding: 17px 25px;
+     border-radius: 25px;
+     margin-bottom: 20px;
+     color: #382639;
+     outline: none;
+   }      
+    
+   input,textarea{
+    padding: 17px 25px;
+    border-radius: 25px;
+    margin-bottom: 20px;
+    background-color: #edfff0;
+    border: 2px solid #f0faf1;
+    color: #382639;
+    outline: none;
+}
+
+table{
+     width: 30%;
+     height: 10%;
+}
+
